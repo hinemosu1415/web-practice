@@ -4,4 +4,4 @@ getElementById, getElementsByClassName, getElementsByTagName
 
 
 
-//上が終わったらhtmlのテキストの内容を書き換えてみよう
+//上が終わったらhtmlのテキストの内容を "書き換え完了" に書き換えてみよう

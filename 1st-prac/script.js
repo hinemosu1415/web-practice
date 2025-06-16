@@ -1,1 +1,1 @@
-let text = "こんにちは、この文字数をconsole.logで出力してください";
+let text = "こんにちは!この文字数をconsole.logで出力してください";
