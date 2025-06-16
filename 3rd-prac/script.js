@@ -1,0 +1,2 @@
+//getElementsByTagNameを使ってみましょう
+
