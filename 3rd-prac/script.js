@@ -1,3 +1,1 @@
-//getElementsByTagNameを使ってみましょう
-//配列の使い方に注意
-
+// Pushボタンを押したら入力欄の内容をconsole.logに出力するコードを書いてみましょう
